@@ -1,0 +1,1 @@
+database_uri = "mysql+pymysql://datab8:Cl67!D5dq_OC@den1.mysql6.gear.host/datab8"
